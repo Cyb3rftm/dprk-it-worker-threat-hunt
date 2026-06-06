@@ -1,0 +1,16 @@
+# Cyber Threat Intelligence
+
+## Intelligence Sources
+
+- Public reporting
+- Government advisories
+- Industry research
+- OSINT
+
+## Intelligence Goal
+
+Identify infrastructure patterns commonly associated with DPRK IT worker operations.
+
+## Outcome
+
+Indicators were operationalized into detection workflows.
