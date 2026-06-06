@@ -1,0 +1,13 @@
+# MITRE ATT&CK Mapping
+
+| Tactic | Technique |
+|----------|----------|
+| Resource Development | Acquire Infrastructure |
+| Initial Access | Valid Accounts |
+| Defense Evasion | Proxy Usage |
+| Credential Access | Credential Theft |
+| Discovery | Account Discovery |
+
+## Analysis
+
+The campaign relied heavily on false identities and infrastructure masking techniques.
