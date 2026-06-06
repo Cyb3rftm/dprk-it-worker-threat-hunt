@@ -1,0 +1,47 @@
+# Threat Hunting Methodology
+
+## Phase 1 - Intelligence Collection
+
+Collected publicly available indicators associated with DPRK IT worker campaigns.
+
+Examples:
+
+- Email domains
+- IP addresses
+- VPN infrastructure
+- Hosting providers
+
+
+---
+
+## Phase 2 - Hypothesis
+
+Hypothesis:
+
+"DPRK IT workers may attempt to obtain employment using known infrastructure or identifiers previously reported in public intelligence sources."
+
+---
+
+## Phase 3 - Detection Development
+
+Developed Splunk searches to identify potential matches.
+
+Data Sources:
+
+- Applicant records
+- Authentication logs
+- Network logs
+
+---
+
+## Phase 4 - Investigation
+
+Potential matches were reviewed manually.
+
+Indicators were validated against multiple intelligence sources.
+
+---
+
+## Phase 5 - Reporting
+
+Validated findings were documented and escalated.
