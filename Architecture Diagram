@@ -1,0 +1,9 @@
+Threat Intelligence
+        ↓
+ Indicator Repository
+        ↓
+ Splunk Detection
+        ↓
+ Investigation
+        ↓
+ Reporting
